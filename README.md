@@ -25,4 +25,4 @@ This is a simple and interactive web app that helps users calculate the best tim
 3. Get 3 recommended sleep times
 4. Pick one and enjoy better sleep!
 
-© 2025 – Built with ❤ by Ashraf
+© 2025 – Built with ❤ by Achraf
