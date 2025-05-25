@@ -16,7 +16,8 @@ This is a simple and interactive web app that helps users calculate the best tim
 
 ## 📷 Screenshot
 
-![Sleep Time Calculator Screenshot](screenshot.png)
+![Sleep Time Calculator Screenshot]( https://github.com/lamzef-achraf/Ideal-Sleep-Time-Calculator/blob/4a4b22d8ba5e5be34d28d60a404e94af4b7f6f91/Screenshot%201.png)
+                                  ( )
 
 ## 🚀 How to Use
 
